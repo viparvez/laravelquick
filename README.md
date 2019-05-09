@@ -1,0 +1,2 @@
+# laravelquick
+Just for learning
